@@ -14,7 +14,7 @@ I run my own agent framework, Palladium. These five are scripted demos that repr
 | Rule precedence | Propose rule changes at the org, team or project layer. Tightening applies, loosening is rejected. | [demos.obviouslogic.ai/rule-precedence](https://demos.obviouslogic.ai/rule-precedence/) | [repo](https://github.com/obviouslogic-ai/rule-precedence) |
 | Skill lint | Break or fix references in a small skill library and watch the broken links turn red. | [demos.obviouslogic.ai/skill-registry-lint](https://demos.obviouslogic.ai/skill-registry-lint/) | [repo](https://github.com/obviouslogic-ai/skill-registry-lint) |
 | Agent activity | Watch simulated agents move between departments and sources. Follow one, toggle trails. | [demos.obviouslogic.ai/agent-activity-viz](https://demos.obviouslogic.ai/agent-activity-viz/) | [repo](https://github.com/obviouslogic-ai/agent-activity-viz) |
-| Council | Replay a debate where differing viewpoints critique a big decision before it is made. | [demos.obviouslogic.ai/council-demo](https://demos.obviouslogic.ai/council-demo/) | [repo](https://github.com/obviouslogic-ai/council-demo) |
+| Assembly | Twenty differing minds refine an idea, vote, and run it through set gates before it costs anything. | [demos.obviouslogic.ai/assembly-demo](https://demos.obviouslogic.ai/assembly-demo/) | [repo](https://github.com/obviouslogic-ai/assembly-demo) |
 
 **How to use them:** open a page and click; the first three run real Python in the browser, so give them a few seconds to load. To run one locally, clone the repo, follow its README (one `python3 -m http.server` command), or use the CLI and `python3 -m unittest` / `node --test`.
 
