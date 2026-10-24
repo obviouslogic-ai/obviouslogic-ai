@@ -32,7 +32,7 @@ More than 20 years, most of them leading people. The pattern holds: step into an
 
 ## Governance demos
 
-These are scripted demos that represent the governance process in my own agent framework. They are not samples of the real system, and none of its code or data is in them. Each one fits one screen and runs in your browser.
+These are scripted demos that represent some of the governance processes in my own agent framework. They are not samples of the real system, and none of its code or data is in them. Each one fits one screen and runs in your browser.
 
 | Demo | What it shows | Repo |
 |---|---|---|
