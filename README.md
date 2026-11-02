@@ -1,38 +1,37 @@
 # Dan DeZago
 
-Director-level technology and AI leader. I embed with each department, learn how the work actually gets done, and deliver the systems that fix it.
+Solutions and systems leader. I sit down with the people who own a problem, find what is really slowing them down, design the system that fixes it, and prove it with a working pilot.
 
-I don't write code by hand. I run an agentic framework: I set the direction and the rules, AI agents do the build, and a human approves anything that matters. Everything you see here, this profile, the demos and their code, was produced by my agent framework, with me directing and approving the work.
+I design the systems and direct the build. AI agents write the code under my review, and a person approves anything that matters. This profile, the demos, and their code were all produced that way.
 
 ## What I do now
 
 **Founder and Fractional CTO, [ObviousLogic.ai](https://obviouslogic.ai)**
-- I give organizations senior technology leadership without a full-time hire: strategy, systems assessments, vendor selection and implementation planning.
-- I direct a team of 50+ AI agents. Each one works under written rules, and nothing ships without human approval.
-- I advise a mega-church on its move from CCB to Rock RMS. Rock went live in mid-September 2026, with kids check-in working on Sunday mornings.
+- I give organizations senior technology leadership without a full-time hire: systems assessments, solution design, vendor selection, and implementation plans.
+- I design and build tools that solve real problems many teams share, and I direct a team of AI agents that works under written rules with human approval.
+- I advise a large church on its move from CCB to Rock RMS. Rock went live in mid-September 2026, with kids check-in working on Sunday mornings.
 
 ## Before that
 
 **Senior Manager of Technology, a national safety services company (2025 to 2026)**
-- Built and stabilized in-house IT, Salesforce and engineering, then handed each team to a steady owner.
-- IT backlog went from 400 tickets to 17, and response time fell 87%.
-- Took over a stalled invoicing migration and took it live in August 2025, six months later.
-- Directed a governed AI agent team that made 518 commits in under four months.
-- Measured about 6x fewer tokens per unit of work across 259 scored tasks.
+- **Compliance platform pilot.** Systems design and product lead, working shoulder to shoulder with the CEO. We moved to a fresh AWS environment, but the real work was designing how the product worked for clients. Pilot clients and their customer success managers did their jobs in the new platform, and sales used it as a live demo to reach larger enterprise clients.
+- **Azure consolidation.** Company data sat on Hyper-V hosts that averaged about 7% CPU, so I showed that moving the data to Azure would cost less than relocating the server racks in an office move. About 7 TB and 20 legacy apps moved, with no downtime and on time.
+- **Marketing attribution.** Connected Salesforce, HubSpot, Pardot, and Gong so every lead carries an accurate source. Marketing can now see which sources pay off and put spend where it works.
+- **IT turnaround.** The backlog went from 400 tickets to 17, and response time fell 87%.
 
-More than 20 years, most of them leading people. The pattern holds: step into an area that needs structure, build the system, stabilize it, and hand a working team to a steady owner.
+Earlier, I started in technical inside sales, helping integrators choose the right solution for each install. That habit stuck: understand the need first, then recommend the fit.
 
 ## How I work
 
-- Human in the loop. People approve the decisions that matter, and every action is logged.
+- Start with the people who own the problem, not the tool.
 - Fix the data before I automate.
 - One source of truth per process, so people and AI work from the same records.
-- Write instructions precisely. Vague prompts and vague tickets both leave someone guessing.
-- Stabilize, document, then hand off.
+- Prove it with a pilot and real results before scaling it.
+- Human in the loop. People approve the decisions that matter, and every action is logged.
 
-## Governance demos
+## Demos
 
-These are scripted demos that represent some of the governance processes in my own agent framework. They are not samples of the real system, and none of its code or data is in them. Each one fits one screen and runs in your browser.
+A place to try ideas and tools I have designed and built. Each demo shows a real problem and the value of the solution, and runs in your browser. These are standalone demos with their own public code. The systems behind them stay private.
 
 | Demo | What it shows | Repo |
 |---|---|---|
